@@ -1,0 +1,11 @@
+body {
+background:none repeat scroll 0 0 #f0f0f0;
+}
+h1 a, h1 a:hover, h1 a:visited ,#headerimg .description  {
+color:#333;
+}
+#sidebar #searchsubmit {
+font-family:'arial';
+padding:1px;
+}
+#letskillie6 .meta {display:none;}
